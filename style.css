@@ -60,12 +60,12 @@ p,div
     /*! width          : 99%; */
     
     
-    color          : sienna;
-    text-align: center;
-    line-height: .1rem;
+    color        : sienna;
+    text-align   : center;
+    line-height  : .1rem;
     margin-bottom: 2rem;
-    font-style: italic;
-    opacity: .7;
+    font-style   : italic;
+    opacity      : .7;
 }
 
 .text3 {
